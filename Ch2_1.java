@@ -1,4 +1,4 @@
-public class Ch3_1 {
+public class Ch2_1 {
     public static void main(String args[]){
         int num1,num2 ;
         num1 = 1 ; 

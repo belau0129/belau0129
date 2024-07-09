@@ -10,5 +10,6 @@ public class hm_11 {
 
         int total = price+price1+price2 ;
         System.out.print("The total is: "+total) ;
+        cin.close() ;
     }
 }

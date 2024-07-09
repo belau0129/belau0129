@@ -9,5 +9,6 @@ public class hm_08 {
         String city = cin.next() ;
 
         System.out.print("姓名:"+name+"\n年齡:"+age+"\n城市:"+city) ;
+        cin.close() ;
     }
 }
